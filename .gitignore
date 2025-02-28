@@ -1,0 +1,32 @@
+# Compiled files
+*.o
+*.so
+*.a
+*.dylib
+
+# Build directories
+build/
+objs/
+logs/
+temp/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Configuration files with sensitive information
+*.conf.local
+*.secret
+
+# Compiled binaries
+nginx
